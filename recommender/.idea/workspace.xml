@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ac318cae-133f-4af4-923a-1c55254731ea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/als_rating_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recommender.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/scala/Train.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../back/src/main/java/com/haust/back/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../back/src/main/java/com/haust/back/controller/UserController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/api/user.js" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/api/user.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/Reply.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/Reply.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/person.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/person.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/components/tabs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/components/tabs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/Edit.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/Edit.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/NewDate.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/NewDate.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/Public.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/Public.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/about.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/about.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/index.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/index.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/pages/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/pages/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/Culture.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/Culture.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/Huaren.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/Huaren.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/Life.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/Life.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/NewDetail.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/NewDetail.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/Sport.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/Sport.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/datenew.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/datenew.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/finance.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/finance.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/picture.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/picture.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/society.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/society.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/technology.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/technology.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../front/src/views/video.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../front/src/views/video.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../newrecommend.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../newrecommend.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/scala_compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/META-INF/maven/archetype.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/main/java/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/archetype-resources/src/test/java/AppTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/Test.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/Test.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/cnew_data.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/cnew_url.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/cnew_url1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../spider/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../spider/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\environment\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../../environment/apache-maven-3.8.7" />
+        <option name="userSettingsFile" value="C:\environment\apache-maven-3.8.7\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+    <option name="vmOptions" value="-Dmaven.wagon.http.ssl.insecure=true -Dmaven.wagon.http.ssl.allowall=true -Dmaven.wagon.http.ssl.ignore.validity.dates=true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2Pv0MH3Hvgl1tAWsIPhbGPo1mmJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Code/NewsRecommend/recommender",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.27931035",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Code\NewsRecommend\recommender\src\main\scala" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Code\NewsRecommend\recommender" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="recommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true">
+      <envs>
+        <env name="HADOOP_HOME" value="C:\environment\hadoop-2.10.2" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="recommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Train" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Train" />
+      <module name="recommender" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Train" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Train" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac318cae-133f-4af4-923a-1c55254731ea" name="Changes" comment="" />
+      <created>1684322203182</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684322203182</updated>
+      <workItem from="1684322205330" duration="644000" />
+      <workItem from="1684322866836" duration="2894000" />
+      <workItem from="1684325812184" duration="602000" />
+      <workItem from="1684326674859" duration="1941000" />
+      <workItem from="1684332014830" duration="4515000" />
+      <workItem from="1684399333479" duration="965000" />
+      <workItem from="1684422592239" duration="651000" />
+      <workItem from="1684425732255" duration="1666000" />
+      <workItem from="1684472792817" duration="830000" />
+      <workItem from="1684506575944" duration="2044000" />
+      <workItem from="1684572529918" duration="82000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
